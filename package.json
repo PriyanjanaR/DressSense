@@ -1,0 +1,16 @@
+{
+  "name": "dresssense",
+  "version": "1.0.0",
+  "description": "Testing out an idea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyanjana Roy",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
+  }
+}
